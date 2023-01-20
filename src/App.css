@@ -36,3 +36,14 @@
     transform: rotate(360deg);
   }
 }
+
+.line {
+  position: absolute;
+  width: 1920px;
+  height: 280.23px;
+  left: -14px;
+  top: 2170.23px;
+
+  border: 2px solid rgba(45, 152, 226, 0.12);
+  transform: matrix(1, 0, 0, -1, 0, 0);
+}
